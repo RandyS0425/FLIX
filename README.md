@@ -24,4 +24,4 @@ Flix is an app that allows users to browse movies from the [The Movie Database A
 <img src="http://g.recordit.co/S5WGUq3rzT.gif" width=250><br>
 
 ### Notes
-Describe any challenges encountered while building the app.
+First of all I just want to say that this app was very fun to make! I really enjoyed the process of learning new concepts, and getting to try them out. First, one of the things I struggled a lot was with downloading cocoapods, I kept getting errors until I decided to uninstall it and download it with homebrew and it worked! My second struggle was identifying 'MovieCell' it turns out I was not identifying it in the right place, luckily a TA answered my question which saved me tons of time!
