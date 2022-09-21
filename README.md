@@ -1,24 +1,20 @@
-# Flix
 
-Flix is an app that allows users to browse movies from the [The Movie Database API](http://docs.themoviedb.apiary.io/#).
+## Flix Part 2
 
-📝 `NOTE - PASTE PART 2 SNIPPET HERE:` Paste the README template for part 2 of this assignment here at the top. This will show a history of your development process, which users stories you completed and how your app looked and functioned at each step.
-
----
-
-## Flix Part 1
+### User Stories
 
 #### REQUIRED (10pts)
-- [x] (2pts) User sees an app icon on the home screen and a styled launch screen.
-- [x] (5pts) User can view and scroll through a list of movies now playing in theaters.
-- [x] (3pts) User can view the movie poster image for each movie.
+- [x] (5pts) User can tap a cell to see more details about a particular movie.
+- [x] (5pts) User can tap a tab bar button to view a grid layout of Movie Posters using a CollectionView.
 
 #### BONUS
-- [ ] (2pt) User can view the app on various device sizes and orientations.
-- [ ] (1pt) Run your app on a real device.
+- [ ] (2pts) User can tap a poster in the collection view to see a detail screen of that movie.
+- [ ] (2pts) In the detail view, when the user taps the poster, a new screen is presented modally where they can view the trailer.
 
 ### App Walkthrough GIF
-<img src="http://g.recordit.co/S5WGUq3rzT.gif" width=250><br>
+`TODO://` Add the URL to your animated app walkthough `gif` in the image tag below, `YOUR_GIF_URL_HERE`. Make sure the gif actually renders and animates when viewing this README. (🚫 Remove this paragraph after after adding gif)
+
+<img src="YOUR_GIF_URL_HERE" width=250><br>
 
 ### Notes
-First of all I just want to say that this app was very fun to make! I really enjoyed the process of learning new concepts, and getting to try them out. First, one of the things I struggled a lot was with downloading cocoapods, I kept getting errors until I decided to uninstall it and download it with homebrew and it worked! My second struggle was identifying 'MovieCell' it turns out I was not identifying it in the right place, luckily a TA answered my question which saved me tons of time!
+Overall, this app was one of the most helpful projects I have done. This project further solified my knowledge on, tableviews, connections, imageViews, collectionViews, etc. During the development of this assignment I encountered a variety of roadblocks, but one of the most significant ones was when my collection view was not displaying the movies properly. I had done everything the instructions had told me to do, but for some reason the layout was not correct. I later found that the issue was that the width was not being set properly. Thankfully, One of the instructors and I pinned pointed the issue and solved it. I'm very thanful that I encountered this issue, because I now know to look out for teh in the future. 
